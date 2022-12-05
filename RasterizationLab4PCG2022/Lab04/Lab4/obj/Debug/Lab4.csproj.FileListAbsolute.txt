@@ -1,0 +1,12 @@
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\bin\Debug\ZedGraph.dll
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\bin\Debug\ZedGraph.Web.dll
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.csproj.CopyComplete
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\mvv22\source\repos\Romash_12\lab5\lab5\obj\Debug\lab5.pdb
