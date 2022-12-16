@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\pkg5.exe
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\pkg5.deps.json
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\pkg5.runtimeconfig.json
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\pkg5.runtimeconfig.dev.json
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\pkg5.dll
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\pkg5.pdb
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\PKG_5.Application.resources
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.csproj.GenerateResource.cache
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.AssemblyInfo.cs
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.dll
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.pdb
+C:\Users\1\source\repos\closed\obj\Release\netcoreapp3.1\pkg5.genruntimeconfig.cache

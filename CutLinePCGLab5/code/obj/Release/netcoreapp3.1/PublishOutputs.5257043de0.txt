@@ -1,0 +1,5 @@
+C:\Users\1\source\repos\PKG-5\bin\Release\netcoreapp3.1\publish\PKG-5.exe
+C:\Users\1\source\repos\PKG-5\bin\Release\netcoreapp3.1\publish\PKG-5.dll
+C:\Users\1\source\repos\PKG-5\bin\Release\netcoreapp3.1\publish\PKG-5.deps.json
+C:\Users\1\source\repos\PKG-5\bin\Release\netcoreapp3.1\publish\PKG-5.runtimeconfig.json
+C:\Users\1\source\repos\PKG-5\bin\Release\netcoreapp3.1\publish\PKG-5.pdb

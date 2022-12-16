@@ -1,0 +1,5 @@
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\publish\pkg5.exe
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\publish\pkg5.dll
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\publish\pkg5.deps.json
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\publish\pkg5.runtimeconfig.json
+C:\Users\1\source\repos\closed\bin\Release\netcoreapp3.1\publish\pkg5.pdb
